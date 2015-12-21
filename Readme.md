@@ -20,8 +20,10 @@
 
 后期计划：
 
-1. 每天定时运行此脚本，做到自动归档
+1. 准备使用 Mac plist 脚本每天定时运行此脚本，做到自动归档
 2. OmniFoucs 中一个任务附注为空时，归档时不显示附注
+
+附上 [github地址](https://github.com/Channe/OmniFocus2Evernote)
 
 > 参考文章：
 > 
